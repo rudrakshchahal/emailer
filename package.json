@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "mailparser": "^3.7.1",
+    "smtp-server": "^3.13.4",
+    "sqlite3": "^5.1.7"
+  }
+}
